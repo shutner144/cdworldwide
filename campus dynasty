@@ -1,5 +1,5 @@
 SCHOOL NAME, MASCOT, ABBREVIATION, CONFERENCE, PRIMARY HEX COLOR, SECONDARY HEX COLOR, PRESTIGE, HOME STATE, PIPELINE STATES (separated by .);
-United States, 🇺🇸Dream Redeemers, USA, N. America, B31942, 0A3161, 90, CT, CT;
+United States, 🇺🇸Dream Redeemers, USA, N. America, B31942, 0A3161, 90, US, US;
 Canada, 🇨🇦Beavers, CAN, N. America, D80621, FFFFFF, 79, CA, CA;
 Greenland, 🇬🇱Nanuq, GRL, N. America, DDDDDD, ff3300, 46, RI, RI;
 Bermuda, 🇧🇲Gombey Warriors, BMU, N. America, 66ccff, cc0000, 56, RI, RI;
@@ -13,7 +13,7 @@ El Salvador, 🇸🇻Guanacos, SLV, N. America, 000000, 0047AB, 60, MA, MA;
 Costa Rica, 🇨🇷Ticos, CRI, N. America, 00205B, D50000, 54, NY, NY;
 Belize, 🇧🇿Unity, BLZ, N. America, 009B3A, FED100, 52, VA, VA;
 Cayman Islands, 🇰🇾Golden Lions, CYM, N. America, c68c53, 66b3ff, 40, CT, CT;
-Mexico, 🇲🇽Águilas, MEX, N. America, 006341, C8102E, 70, PA, PA;
+Mexico, 🇲🇽Águilas, MEX, N. America, 006341, C8102E, 70, MX, MX;
 Haiti, 🇭🇹Ayisyen, HTI, N. America, F1B517, 3E6680, 37, NY, NY;
 Vietnam, 🇻🇳Trâu, VNM, Asia 1, C8102E, FFCD00, 45, FL, FL;
 Japan, 🇯🇵ウォリアーズ, JAP, Asia 1, 666699, BC002D, 58, MA, MA;
